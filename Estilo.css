@@ -1,0 +1,39 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+div{
+	column-gap: 1px; ;
+	}
+body{
+	color: currentColor;
+	text-align: center;
+	color: white;
+
+}
+h1{
+	font-family: monospace;
+	font-display: swap;
+	font-size: 17px;
+	
+}
+h2{
+	font-family: monospace;
+	font-display: swap;
+
+}
+h4{font-family: monospace;
+	font-display: swap;
+	font-size: 17px;
+
+}
+h3{font-family: monospace;
+	font-display: swap;
+	font-size: 17px;
+
+}
+h5{
+	font-family: monospace;
+	font-display: swap;
+	font-size: 17px;
+}
